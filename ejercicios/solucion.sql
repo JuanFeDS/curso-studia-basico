@@ -10,3 +10,7 @@ SELECT
 FROM `curso-studia-basico.biblioteca.prestamos` 
 LIMIT 5
 
+
+
+
+
